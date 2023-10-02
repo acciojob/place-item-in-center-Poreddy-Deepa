@@ -3,7 +3,10 @@
 
 .holder{
 width:100vw;
-	heught:100vh;
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	align-tems:center;
 	
 	
 }
